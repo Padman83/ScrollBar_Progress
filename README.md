@@ -12,10 +12,10 @@
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
 ```
-https://github.com/Padman83/Marquee_Text.git
+https://github.com/Padman83/ScrollBar_Progress.git
 ```
 
 #### Or Use the Terminal.
 
 ```
-git clone https://github.com/Padman83/Marquee_Text.git
+git clone https://github.com/Padman83/ScrollBar_Progress.git
